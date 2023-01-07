@@ -9,7 +9,7 @@ When the program is started it waits the user to enter monthly values for the in
 1. Take inputs from user, take at least 2 inputs; otherwise, the program wont work
 2. Pick the max and min through all of that inputs to cal the differences of them
 3. Return the highest differences of them all 
-4. That differences should be displayed as result in one decimal accuracy
+4. That differences should be displayed as the result written in one decimal accuracy
 """
 
 
